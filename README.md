@@ -42,7 +42,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы  
-
+https://github.com/amaliaberdukova11-09/Lab--5/blob/8ac526c30fb297fa85d3f66ac6cd4abd6922ccef/рез1.png
 --- 
 
 ## Задача 2 - Запись пользовательского ввода в текстовый файл
@@ -95,7 +95,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы  
-
+https://github.com/amaliaberdukova11-09/Lab--5/blob/8ac526c30fb297fa85d3f66ac6cd4abd6922ccef/рез2.png
 ---
 
 ## Задача 3 - Копирование содержимого одного файла в другой
@@ -156,7 +156,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы  
-
+https://github.com/amaliaberdukova11-09/Lab--5/blob/8ac526c30fb297fa85d3f66ac6cd4abd6922ccef/рез3.png
 ---
 
 ## Задача 4 - Подсчёт строк, слов и символов в текстовом файле
@@ -240,7 +240,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы  
-
+https://github.com/amaliaberdukova11-09/Lab--5/blob/8ac526c30fb297fa85d3f66ac6cd4abd6922ccef/рез4.png
 ---
 
 ## Задача 5 - Запись и чтение структур в бинарном файле
@@ -321,7 +321,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы  
-
+https://github.com/amaliaberdukova11-09/Lab--5/blob/8ac526c30fb297fa85d3f66ac6cd4abd6922ccef/рез5.png
 ---
 
 ## Задача 6 - Произвольный доступ к файлу с использованием fseek()
@@ -423,7 +423,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы  
-
+https://github.com/amaliaberdukova11-09/Lab--5/blob/8ac526c30fb297fa85d3f66ac6cd4abd6922ccef/рез6.png
 ---
 
 ## Задача 7 - Использование временного файла (temporary file)
@@ -479,7 +479,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы  
-
+https://github.com/amaliaberdukova11-09/Lab--5/blob/8ac526c30fb297fa85d3f66ac6cd4abd6922ccef/рез7.png
 ---
 ### Информация о студенте  
 Бердукова Амалия, 1 курс, группа `1об_ПОО/25`
